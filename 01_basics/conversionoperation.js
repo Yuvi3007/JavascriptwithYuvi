@@ -36,4 +36,8 @@ let value =7
 let negValue =-value
 console.log(negValue)
 
-console.table([2+2,3-1,2*3,3/2,4%2]);
+console.table([2+2,3-1,2*3,3/2,4%2])
+
+let gameCounter=100
+gameCounter++;
+console.log(gameCounter)
